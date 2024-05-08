@@ -8,7 +8,7 @@
     {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerR","order":5,"path":"sprites/sPlayerR/sPlayerR.yy",},
-    {"name":"Sprite8","order":8,"path":"sprites/Sprite8/Sprite8.yy",},
+    {"name":"sGrain","order":8,"path":"sprites/sGrain/sGrain.yy",},
     {"name":"sWalls","order":6,"path":"sprites/sWalls/sWalls.yy",},
   ],
 }
