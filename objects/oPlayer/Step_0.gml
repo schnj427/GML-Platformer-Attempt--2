@@ -62,4 +62,12 @@ else
 
 if (hsp != 0) image_xscale = sign(hsp);
 
+//Wall Jump
+if (place_meeting(x-1, y, oWall) && !place_meeting(x,y+1, oWall) && !key_left)
+	vsp = -jumpsp;
+
+if (place_meeting(x+1, y, oWall) && !place_meeting(x, y+1, oWall) && !key_right)
+	vsp = -jumpsp;
+
+
 
